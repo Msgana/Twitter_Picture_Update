@@ -1,4 +1,4 @@
-# Twitter_Master
+# Twitter realtime picture update python program
 
  A python code for Twitter picture live update using the Twitter API and a raspberry pi with a camera module. 
  
