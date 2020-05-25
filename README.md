@@ -1,6 +1,6 @@
 # Twitter_Master
 
- A python code for Twitter picture live update using the Twitter API and a raspberry pi with a camera module. There are two programs  camera_function.py and tweet_function.py. 
+ A python code for Twitter picture live update using the Twitter API and a raspberry pi with a camera module. 
  
 Dependencies:
 - install the piCamera packadge
