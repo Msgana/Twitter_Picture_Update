@@ -8,7 +8,6 @@ Dependencies:
       sudo apt-get install picamera
       
 - install tweepy     
-
     sudo apt-get install tweepy
 
  Resource
