@@ -1,5 +1,4 @@
-# Twitter realtime picture update python program
-
+# Twitter realtime picture update
  A python code for Twitter picture live update using the Twitter API and a raspberry pi with a camera module. 
  
 Dependencies:
